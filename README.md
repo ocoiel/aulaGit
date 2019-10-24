@@ -1,1 +1,3 @@
 # AULA GIT
+
+`app.die()`
